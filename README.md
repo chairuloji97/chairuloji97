@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/chairuloji97/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chairuloji97&theme=discord" alt="chairuloji97" /></a> </p>
 
 - 🌱 I’m currently learning **Automation Testing Web and API**
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, IDE**
 - 📫 How to reach me **chairuloji97@gmail.com**
 
 
