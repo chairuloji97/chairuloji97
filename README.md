@@ -6,6 +6,18 @@
 
 <p align="left"> <a href="https://github.com/chairuloji97/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chairuloji97&theme=discord" alt="chairuloji97" /></a> </p>
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lisarahmanita/lisarahmanita/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 - 🌱 I’m currently learning **Automation Testing Web and API**
 - 💬 Ask me about **Java, IDE**
 - 📫 How to reach me **chairuloji97@gmail.com**
